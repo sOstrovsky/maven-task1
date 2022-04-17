@@ -5,3 +5,7 @@ out/
 *.ipr
 *.iws
 .DS_Store
+
+# Maven
+log/
+target/
